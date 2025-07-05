@@ -1,0 +1,20 @@
+.sl-overlay {
+    background-color: rgba(0, 0, 0, 0.85);
+ }
+
+ .sl-next {
+    color: rgb(255, 255, 255) !important;
+ }
+
+ .sl-counter {
+        color: rgb(255, 255, 255) !important;
+    }
+
+.sl-close {
+        color: rgb(255, 255, 255) !important;
+    }
+
+.sl-prev {
+    color: rgb(255, 255, 255) !important;
+}
+
